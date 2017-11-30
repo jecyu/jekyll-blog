@@ -1,19 +1,13 @@
 ---
 layout: default
-title: 我的Blog
+title: A guide to your digital life
 ---
-<h2>{{ page.title }}</h2>
-<p>最新文章</p>
-<ul>
-    {% for post in site.posts %}
-<<<<<<< HEAD
-    <li>{{ post.date | date_to_string }}
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-=======
-        <li>
-            {{post.date | date_to_string}}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </li>
->>>>>>> b7ad856756878ecfa80330bb47646a35e104f650
+<div class="listing">
+    {% for post in paginator.posts %}
+    <div class="post other link">
+      <h2><i class="fa fa-rss" aria-hidden="true"></i></span> <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+      <p class="post-date">{{ post.date | date_to_string }}</p>
+      {{ post.excerpt }}
+    </div>
     {% endfor %}
-</ul>
+</div>
