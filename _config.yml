@@ -1,3 +1,4 @@
+baseurl: '/'
 name: White Paper
 description: >
     A simple jekyll theme aimed at programmers who like clean interface to write posts
