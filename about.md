@@ -10,8 +10,8 @@ title: About Vinit Kumar
 
 
 <div class="pagination">
-  {% if site.owner.linkedin %}
-    <a href="{{ site.owner.linkedin }}" class="social-media-icons"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a>
+  {% if site.owner.weibo %}
+    <a href="{{ site.ownerweibo }}" class="social-media-icons"><i class="fa fa-2x fa-weibo" aria-hidden="true"></i></a>
   {% endif %}
   {% if site.owner.email %}
     <a href="mailto:{{ site.owner.email }}" class="social-media-icons"><i class="fa fa-2x fa-envelope" aria-hidden="true"></i></a>
@@ -23,6 +23,6 @@ title: About Vinit Kumar
     <a href="{{ site.owner.github }}" class="social-media-icons"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
   {% endif %}
   {% if site.owner.stackexchange %}
-    <a href="{{ site.owner.stackexchange }}" class="social-media-icons"><i class="fa fa-2x fa-stack-overflow" aria-hidden="true"></i></a>
+    <!-- <a href="{{ site.owner.stackexchange }}" class="social-media-icons"><i class="fa fa-2x fa-stack-overflow" aria-hidden="true"></i></a> -->
   {% endif %}
 </div>

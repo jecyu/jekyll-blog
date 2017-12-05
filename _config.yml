@@ -1,9 +1,9 @@
-name: White Paper
+name: 花森玉米
 description: >
-    A simple jekyll theme aimed at programmers who like clean interface to write posts
-    and show off some code.
+    这里是花森玉米地，定期总结、思考、出口玉米，煎炒煮烧怎样可口怎样来！
 about: >
-    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+   哈喽，我叫林济煜。相貌平平无奇，却总有一颗超神的心。跑步上瘾不能自拔，大球小球都摸过，
+   平时跟电脑玩耍，闲时去各个地方压马路，拍大人小人，男人女人，各种场景都有。
 
 master_repo: false
 url: "www.linjiyu.me"
@@ -14,19 +14,20 @@ plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
 paginate: 4
 
-logo:             logo.png
+logo: logo.png
 disqus_shortname:
 
 rtl: false
 owner:
-  name:           whitepaper
-  avatar:         "https://avatars1.githubusercontent.com/u/537678?s=240&v=4"
-  email:          "vinit1414.08@bitmesra.ac.in"
+  name:           linjiyu
+  avatar:         "https://avatars1.githubusercontent.com/u/28448589?s=240&v=4"
+  email:          "jecyulin@foxmail.com"
   # Social networking links used in footer. Update and remove as you like.
-  twitter: vinitkme
-  github: https://github.com/vinitkumar
+  twitter: https://twitter.com/JecyuLin
+  github: https://github.com/Jecyu
   stackexchange: https://stackoverflow.com/users/859112/vinit-kumar?tab=profile
   linkedin: https://www.linkedin.com/in/vinitatlinkedin
+  weibo: https://weibo.com/u/5763669318
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
