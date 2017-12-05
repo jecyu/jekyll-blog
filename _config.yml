@@ -6,7 +6,7 @@ about: >
    平时跟电脑玩耍，闲时去各个地方压马路，拍大人小人，男人女人，各种场景都有。
 
 master_repo: false
-url: "www.linjiyu.me/"
+url: "./"
 markdown: kramdown
 highlighter: rouge
 
