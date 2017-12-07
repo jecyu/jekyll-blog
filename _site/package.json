@@ -1,0 +1,19 @@
+{
+  "name": "white-paper",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "7.5.0"
+  },
+  "devDependencies": {
+    "bundle": "^0.2.3",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-rtlcss": "^2.0.1",
+    "jekyll": "^3.0.0-beta1",
+    "serve": "^6.4.1"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
