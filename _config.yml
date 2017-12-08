@@ -1,0 +1,39 @@
+name: 花森玉米
+description: >
+    这里是花森玉米地，定期总结、思考、出口玉米，煎炒煮烧怎样可口怎样来！
+about: >
+   哈喽，我叫林济煜。相貌平平无奇，却总有一颗超神的心。跑步上瘾不能自拔，大球小球都摸过，
+   平时跟电脑玩耍，闲时去各个地方压马路，拍大人小人，男人女人，各种场景都有。
+
+master_repo: false
+baseurl: "/"
+url: "/"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+
+paginate: 4
+
+logo: logo.png
+disqus_shortname:
+
+rtl: false
+owner:
+  name:           linjiyu
+  avatar:         "https://avatars1.githubusercontent.com/u/28448589?s=240&v=4"
+  email:          "jecyulin@foxmail.com"
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: https://twitter.com/JecyuLin
+  github: https://github.com/Jecyu
+  stackexchange: https://stackoverflow.com/users/859112/vinit-kumar?tab=profile
+  linkedin: https://www.linkedin.com/in/vinitatlinkedin
+  weibo: https://weibo.com/u/5763669318
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
