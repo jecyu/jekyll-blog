@@ -7,7 +7,7 @@ about: >
 
 master_repo: false
 baseurl: "/"
-url: "/"
+url: "www.linjiyu.me"
 markdown: kramdown
 highlighter: rouge
 
