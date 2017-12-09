@@ -7,7 +7,7 @@ about: >
 
 master_repo: false
 baseurl: "/"
-url: ""
+url: "https://github.com/Jecyu/Jecyu.github.io"
 markdown: kramdown
 highlighter: rouge
 
