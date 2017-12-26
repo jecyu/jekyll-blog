@@ -5,6 +5,7 @@ title: "使用HTML5 localStorage实现本地存储"
 date: 2017-12-10
 comments: true
 categories:
+tags: [html5]
 ---
 
 在用户计算机上本地存储信息对于网站开发人与来说是一个强大的策略。在本文中，我们将可以学到了localStorage在计算机上存储信息是多么地容易，并解释了它的应用。
@@ -66,9 +67,11 @@ localStorage中有一个令人讨厌😒的缺点是只能在不同的键key中�
 
 译自：[Local Storage And How To Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/#where-to-find-local-storage-data-and-how-to-remove-it)
 
+(完)
+
 ## 进一步阅读
 
 - [What is the difference between localStorage, sessionStorage, session and cookies?](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)
 - [MDN Using the Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
-- [维基百科Cookie](https://zh.wikipedia.org/wiki/Cookie#Cookies的替代品)
+- [维基百科Cookie](https://zh.wikipedia.org/wiki/Co-+okie#Cookies的替代品)
 - [详说 Cookie, LocalStorage 与 SessionStorage](http://jerryzou.com/posts/cookie-and-web-storage/)
